@@ -21,7 +21,7 @@ This repository contains a FastAPI web service for image classification using a 
 
 ### Clone the Repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/shriharshan/Kushmanda_Tech.git
    cd your-repo
    ```
 
